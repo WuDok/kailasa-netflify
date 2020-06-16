@@ -1,18 +1,17 @@
 ---
-title: Colophon
+title: about
 permalink: /about/
 layout: page
 excerpt: Hello peeps, I'm student of computer science from Banyuwangi, living in Jogjakarta. This blog for documentation about my programming journey, running on jekyll, hosting on netlify and using my own simple theme.
 comments: false
 ---
 
-He's a student from Banyuwangi, living in Jogjakarta. the blog for documentation about his programming 🎒 journey, running on jekyll, hosting on [now.sh](http://now.sh) and using his own theme, he name it <a href="https://github.com/piharpi/jekyll-klise" target="_blank" rel="noopener">klisé</a>, he also loves to learning web technology; but he often forgot, that a reason why him doing the writing.
+Like everyone else, you want to learn the way to win. But never to accept the way to lose. To accept defeat — to learn to die — is be liberated from it. Once you accept, you are free to flow and to harmonize.
 
-If you have a question about him or else, just send a letter to him.
+You must free your ambitious mind and learn the art of dying.
 
-You can [report](http://github.com/piharpi/jekyll-klise/issues/new) if there is an broken link(s) or somethings else.
 
-##### may u needs ✨
+##### Contact ✨
 
 - {{ site.author.email }}
 - github.com/{{ site.author.username }}
