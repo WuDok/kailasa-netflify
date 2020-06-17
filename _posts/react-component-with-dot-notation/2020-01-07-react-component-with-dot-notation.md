@@ -1,13 +1,13 @@
 ---
 title: React Component with Dot Notation
-date: 2018-04-07 23:04:00 +07:00
+date: 2020-01-07
 tags: [javascript, react]
 description: Learn how to define a React component that is accessible through the dot notation. A common component pattern to show a parent-child relation.
 ---
 
-##### This article is for Demo purpose
+##### This article is for Demo purposes
 
-The article was originally on [this repo](https://github.com/risan/risanb.com/blob/master/content/posts/react-component-with-dot-notation/index.md)
+The article was originally on [this repo](https://github.com/risan/risanb.com/blob/master/content/posts/react-component-with-dot-notation/index.md).
 
 This is my answer to someone's question on [StackOverflow](https://stackoverflow.com/questions/49256472/react-how-to-extend-a-component-that-has-child-components-and-keep-them/49258038#answer-49258038). How can we define a React component that is accessible through the dot notation?
 

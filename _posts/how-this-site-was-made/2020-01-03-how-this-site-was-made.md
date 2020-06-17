@@ -1,26 +1,24 @@
 ---
-title: How this site was born 👶
-date: 2018-09-28 09:45:47 +07:00
+title: Quickly build a similar site 👶
+date: 2020-01-03
 modified: 2019-08-29 09:24:47 +07:00
 tags: [blog, netlify, jekyll, github]
 description: All the services are free, a source code this site placed on github repository and intergration with netlify service, another service that you can use is github page for hosting your own static site.
 ---
 
-The website was made using Jekyll the one of open source static sites generator, and using my own simple theme, I called [klisé](https://github.com/piharpi/klise).
+This website was made using Jekyll, an open source static site generator, and a simple theme called [klisé](https://github.com/piharpi/klise).
 
 <hr>
 
-All the services are free, source code the site was placed on my [github](https://github.com/piharpi/mahendrata.now.sh) repository and intergration with ~~[netlify](https://netlify.com)~~ service, another service that you can use is [github page](https://pages.github.com/) for hosting your own static site.
+The source code can be found at this [github](https://github.com/piharpi/mahendrata.now.sh) repository. Here is a link to [netlify](https://netlify.com) if you would like to host your own static site for free.
 
 <hr>
 
-#### Let's do this
+#### Create a site
 
-So, before we start create a site, you need some tools, you can self paced for how to installing each tools, on this guide i'm just want to show you how to install jekyll and deploying in netlify, but make sure you have each tools below.
+In order to create your own site you will need the tools below.
 
-#### Prerequisites
-
-Requirements before we doing magic show.
+#### Requirements
 
 - [Ruby](https://www.ruby-lang.org/en/downloads/) programming language
 - [Git](https://git-scm.com) (version control)
@@ -29,7 +27,7 @@ Requirements before we doing magic show.
 
 #### Installation
 
-First, you need some [SSG](https://www.staticgen.com/), there are many kind ssg, but in case i'm using Jekyll cause i'm already familiar with it, open your terminal and type command on below
+First, you will need a [SSG](https://www.staticgen.com/). I'm using Jekyll because I'm already familiar with it. Open your terminal and type the commands below:
 
 ```bash
 $ bundle install jekyll # installing jekyll in your machine
@@ -37,7 +35,7 @@ $ jekyll new my-site && cd my-site # create new jekyll project
 $ jekyll s # run jekyll server
 ```
 
-Now, jekyll is running on your local machine, open your browser and go to `localhost:4000` is default address from jekyll, press <kbd>CTRL</kbd> + <kbd>C</kbd> to stop the jekyll server.
+Now that jekyll is running on your local machine, open your browser and go to `localhost:4000`, the default address from jekyll. Press <kbd>CTRL</kbd> + <kbd>C</kbd> to stop the jekyll server.
 
 #### Adding remote repository
 
